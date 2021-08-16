@@ -1,4 +1,4 @@
-"company","customerId","transactionId","sku","itemName","unit","price","category","subcategory"
+"clientId","customerId","transactionId","sku","itemName","unit","price","category","subcategory"
 "merck","cus_1","ACT12_M_609","j23xg88","mesulfen",1,20,"carbon","CalciumCarbonate"
 "merck","cus_1","ACT12_M_609","j24xg89","MNAF",2,23,"carbon","SodiumChloride"
 "merck","cus_1","ACT12_M_609","j25xg90","nifluridide",3,23,"suphate","Methan"
